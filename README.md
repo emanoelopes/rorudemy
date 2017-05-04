@@ -1,1 +1,1 @@
-This is the repository for the RoR Udemy Developer Complete Course 
+This is the repository for the RoR Udemy Developer Complete Course g
